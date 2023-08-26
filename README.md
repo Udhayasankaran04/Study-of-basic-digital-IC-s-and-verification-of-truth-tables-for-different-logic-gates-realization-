@@ -69,6 +69,9 @@ Logic symbol & Truthtable
 Output:
 RTL
 
+
+
+
 ![image](https://github.com/Udhayasankaran04/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393933/23f240ca-340c-45c3-87b6-35460c5f3b2c)
 
 
