@@ -60,8 +60,8 @@ Check all the gates following the same procedure.
 Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by:#M.UDHAYA SANAKRAN
-RegisterNumber:#212222110051
+# Developed by:M.UDHAYA SANAKRAN
+# RegisterNumber:212222110051
 */
 Logic symbol & Truthtable
 ![WhatsApp Image 2023-08-26 at 08 37 03](https://github.com/Udhayasankaran04/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393933/d9a41073-1f62-49a4-9486-1f862d62302a)
