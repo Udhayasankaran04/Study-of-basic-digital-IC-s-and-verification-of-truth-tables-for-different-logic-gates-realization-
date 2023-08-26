@@ -59,7 +59,7 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
 ```
-module sample1(a,b,yand,yor,ynor,ynot,yxor,ynand,yxnor);
+module DE_EX_01(a,b,yand,yor,ynor,ynot,yxor,ynand,yxnor);
 input a,b;
 output yand,yor,ynor,ynot,yxor,ynand,yxnor;
 and(yand,a,b);
